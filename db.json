@@ -1,6 +1,6 @@
 {
     "alunos":[
-        {"id": 1, "nome": "Ana", "turno": "Manhã","turma": "Turma 22", "idade": 18, "endereço": "Rua Pi I"},
+        {"id": 1, "nome": "Ana", "turno": "Manhã","turma": "Turma 22 - Técnico em Eletrônica", "idade": 18, "endereço": "Rua Pi I"},
         {"id": 2, "nome": "Breno", "turno": "Manhã","turma": "Turma 44", "idade": 23, "endereço": "Rua Pi II"},
         {"id": 3, "nome": "Caroline", "turno": "Manhã","turma": "Turma 27", "idade": 25, "endereço": "Rua Pi III"},
         {"id": 4, "nome": "Laís", "turno": "Manhã","turma": "Turma 22", "idade": 16, "endereço": "Rua Pi IV"},
